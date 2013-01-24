@@ -82,11 +82,14 @@ to call the script e.g. every hour - as the script remembers the numbers already
 the day, it will not try and schedule calls that were already scheduled. No number will be called
 more than once per day.
 
-To load calls for a specifica past day, you manually call the script passing the day in 
+To load calls for a specific past day, you manually call the script passing the day in 
 YYYY-MM-DD format.
 
 Notes
 -----
 
 This script uses the PHP xmlrpc library - see http://phpxmlrpc.sourceforge.net
+
+WombatDialer can be found at http://wombatdialer.com
+QueueMetrics caan be found at http://queuemetrics.com
 
