@@ -91,5 +91,6 @@ Notes
 This script uses the PHP xmlrpc library - see http://phpxmlrpc.sourceforge.net
 
 WombatDialer can be found at http://wombatdialer.com
-QueueMetrics caan be found at http://queuemetrics.com
+
+QueueMetrics can be found at http://queuemetrics.com
 
