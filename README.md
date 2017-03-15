@@ -1,28 +1,16 @@
 WombatDialer Examples
 =====================
 
-Example integration scripts with WombatDialer. 
-We welcome your comments and contributions - feel free to fork and push back!
-
-WombatDialer home page: http://wombatdialer.com
-
-QueueMetrics home page: http://queuemetrics.com
+The contents of this project have been merged with https://github.com/Loway/OpenWombatDialerAddOns
+- please go there.
 
 
-AutoRecall
-----------
 
-Schedules recalls based on lost calls on a QueueMetrics queue.
+See also:
 
-A shell script written in PHP.
+* WombatDialer home page: http://wombatdialer.com
+* QueueMetrics home page: http://queuemetrics.com
 
-Cvs2Wbt
--------
-
-Convert a list of numbers and attributes stored as a simple CSV file to the format used by WombatDialer
-to upload call lists.
-
-A script written in Perl.
 
 
 
